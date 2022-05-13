@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_delete.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_insert.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_show_all.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_show_todo_details.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_update_status_activity.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/activity_update_todo_activity.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/All_Folder/Android_Nang_Cao/Thuc_Hanh/DoAn/app/src/main/res/layout/layout.xml" value="0.21105072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
